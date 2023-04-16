@@ -1,7 +1,7 @@
-/* body {
-  padding: 30px;
+body {
+	padding: 30px;
 	display: grid;
-	place-items: center; 
+	place-items: center;
 }
 
 code {
@@ -9,14 +9,14 @@ code {
 	border-radius: 18px;
 	background: #f8f9f9;
 	color: #c06;
-}
+} 
 
-[type= 'color'] {
+[type='color'] {
 	appearance: none;
 	padding: 0;
 	width: 15px;
-	height: 15px;
-	border: none ;
+	height: 15px; 
+	border: none; 
 }
 
 [type='color']::-webkit-color-swatch-wrapper {
@@ -28,9 +28,8 @@ code {
 }
 
 .color-picker {
-	padding: 10px;
+	padding: 10px 15px;
 	border-radius: 10px;
 	border: 1px solid #ccc;
 	background: #f8f9f9;
 }
- */
