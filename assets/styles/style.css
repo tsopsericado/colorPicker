@@ -11,7 +11,7 @@ code {
   color: #c06;
 }
 
-[type='color'] {
+[type="color"] {
   appearance: none;
   padding: 0;
   width: 15px;
@@ -19,11 +19,11 @@ code {
   border: none;
 }
 
-[type='color']::-webkit-color-swatch-wrapper {
+[type="color"]::-webkit-color-swatch-wrapper {
   padding: 0;
 }
 
-[type='color']::-webkit-color-swatch {
+[type="color"]::-webkit-color-swatch {
   border: none;
 }
 
